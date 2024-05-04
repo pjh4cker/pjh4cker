@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jay Parmar</h1>
-<h3 align="center">I am a computer science student. I love coding and problem solving. I always want to put all my energy into everything I do. While in college, I learned technologies like Python, HTML, CSS, Java, C/C++, R, Algorithms, Django, Streamlit, and MySQL. During my three-month internship, I improved my Problem Solving, Problem Analysing, Web-Dev, Database, and AI/ML skills. I love building complex applications that solve complex problems that affect millions of users. Self-motivated, fast learner, dedicated programmer who enjoys solving real world problems.</h3>
+<h1>Hi 👋, I'm Jay Parmar</h1>
+<h3>I am a computer science student. I love coding and problem solving. I always want to put all my energy into everything I do. While in college, I learned technologies like Python, HTML, CSS, Java, C/C++, R, Algorithms, Django, Streamlit, and MySQL. During my three-month internship, I improved my Problem Solving, Problem Analysing, Web-Dev, Database, and AI/ML skills. I love building complex applications that solve complex problems that affect millions of users. Self-motivated, fast learner, dedicated programmer who enjoys solving real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjh4cker&label=Profile%20views&color=0e75b6&style=flat" alt="pjh4cker" /> </p>
 
