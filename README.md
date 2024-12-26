@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Animal Species Detection**
 
-- 🌱 I’m currently learning **R Programming**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Python, C/C++, Java, Bash, Coding-Problems**
 
